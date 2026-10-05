@@ -1,0 +1,39 @@
+Python File : 
+extension : .py 
+
+
+Function : Feature 
+
+
+1. Print Function :
+        print("data")
+            print : data then new line
+
+        print("data",end="\n")
+
+
+====================================
+Escape Squence Chars : 
+1. \n  : newline
+2. \t  : tab (space : 4)
+3. \   : ignore
+====================================
+Comments : 
+
+1. Single Line Comment : 
+# 
+
+2(X). Multiline Comment  :
+    """code"""   (string)
+    '''code'''   (string)
+
+====================================
+2. Input Function : 
+=> to take a User Input
+    prompt  : msg
+
+    return  : collect
+
+    use : print
+    store : use(need)
+    
