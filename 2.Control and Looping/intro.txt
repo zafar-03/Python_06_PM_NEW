@@ -1,0 +1,19 @@
+=> Control Statement :
+
+1.  Conditional Control Statement.
+          i. if control statement 
+         ii. if-else control statement 
+        iii. ladder control statement (elif statement)
+         iv. nested 
+
+
+2.  Match-case Control Statement
+
+
+3.  Looping Control Statement
+    a. entry control Loop
+        i. for loop 
+       ii. while loop  
+
+    b. exit control loop 
+        iii. do-while loop 
