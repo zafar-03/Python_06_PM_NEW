@@ -13,6 +13,6 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 
 ## Uses:
-Addition
-Subtraction
-Multiplication 
+- Addition
+- Subtraction
+- Multiplication 
