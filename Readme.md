@@ -14,5 +14,7 @@ Wikipedia is a free online encyclopedia, created and edited by volunteers around
 
 ## Uses:
 - Addition
+    - for 2 Numbers
+    - for multiple numbers
 - Subtraction
 - Multiplication 
