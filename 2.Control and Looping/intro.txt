@@ -1,6 +1,6 @@
 => Control Statement :
 
-1.  Conditional Control Statement.
+1.  Conditional Control Statement. 
           i. if control statement 
          ii. if-else control statement 
         iii. ladder control statement (elif statement)
