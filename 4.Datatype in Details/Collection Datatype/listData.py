@@ -39,7 +39,7 @@
 
 
 # =====================
-# my_list = [11,1,2,4,4,7,8]
+my_list = [11,1,2,4,4,7,8]
 
 # new value : 
 # my_list.append(12)
@@ -52,8 +52,8 @@
 # my_list.pop(0)
 # print(my_list)
 
-# my_list.remove(7)
-# print(my_list)
+my_list.remove(7)
+print(my_list)
 
 
 # print(my_list.count(44))
