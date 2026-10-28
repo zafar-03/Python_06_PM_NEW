@@ -1,0 +1,15 @@
+=> Type of Function :
+
+-> There are 2 Types.
+    1. in-Built Function
+        print()   // output data print
+        input()   // take a user input
+        .....
+
+    2. user-Defined Function 
+        - to create a custom function 
+        -> there are four category.
+            1. TNRN (take nothing return nothing)
+            2. TSRN (take something return nothing)
+            3. TNRS (take nothing return something)
+            4. TSRS (take something return something)
