@@ -10,6 +10,17 @@
         - to create a custom function 
         -> there are four category.
             1. TNRN (take nothing return nothing)
+                without argument and without return type
+
             2. TSRN (take something return nothing)
+                with argument and without return type
+
             3. TNRS (take nothing return something)
+                without argument and with return type
+
             4. TSRS (take something return something)
+                with argument and with return type
+
+
+===================================
+Anonymous Function : 
